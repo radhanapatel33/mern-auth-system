@@ -29,4 +29,4 @@ https://mern-auth-frontend-psi-cyan.vercel.app
 git clone https://github.com/radhanapatel33/mern-auth-system.git
 cd mern-auth-system
 npm install
-npm start
+npm run dev
